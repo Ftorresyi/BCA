@@ -1,0 +1,15 @@
+#Criando um Arquivo executavel com Python
+
+# Usar o PyCharm para criar o ambiente virtual para que o executavel nao seja gerado
+#muito grande. No ambiente virtual usara apenas as bibliotecas necessarias
+
+# 1 - pip install pywin32
+
+# 2 - pip install pyinstaller
+
+# 3 - pyinstaller --onefile -w nome_do_arquivo  #unifica arquivos e bibliotecas (O parametro w é para
+# codigos que abrem janelas de interface. Esse comando roda o codigo em telas pretas
+# como em um prompt de comando caso nao seja o usado o parametro w
+
+# 4 - Crie o ambiente virtual 
+
