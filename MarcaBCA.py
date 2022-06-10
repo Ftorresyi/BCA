@@ -16,7 +16,7 @@ OMs = [
 
 
 # print('O numero de OMs Apoiadas é: ', len(OMs))
-
+#testcommit
 
 def BuscaOMsApoiadas():
     BcadoDia = open('/content/drive/MyDrive/BCA/bca_do_dia.pdf', 'rb')
